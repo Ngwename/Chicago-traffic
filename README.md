@@ -23,12 +23,14 @@ This project compares several machine learning models to determine which model p
 
 ## Project Files
 
-This project contains two main Jupyter Notebook files:
+This project contains three main Jupyter Notebook files:
 
 | Notebook | Description |
 |---|---|
 | Data Cleaning Notebook | Loads the raw traffic dataset, cleans it, creates severity labels, and exports a cleaned CSV file |
 | Machine Learning Notebook | Preprocesses the cleaned data, trains multiple models, and evaluates model performance |
+| MLP Notebook | Trains MLP model, and evaluates model performance |
+
 
 ---
 
