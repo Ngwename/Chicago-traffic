@@ -36,6 +36,11 @@ This project contains three main Jupyter Notebook files:
 
 ## Dataset
 
+Download the dataset from :
+
+```text
+https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data
+````
 The original dataset file should be named:
 
 ```text
