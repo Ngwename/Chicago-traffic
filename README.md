@@ -503,11 +503,6 @@ The model contains:
 * AdamW optimizer
 * Learning rate scheduling
 
-The best neural network model is saved as:
-
-```text
-best_traffic_mlp.pth
-```
 
 ---
 
