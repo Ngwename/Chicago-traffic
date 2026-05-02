@@ -749,9 +749,6 @@ Model Training
    |
    v
 Model Evaluation
-   |
-   v
-best_traffic_mlp.pth
 ```
 
 ---
@@ -762,7 +759,6 @@ best_traffic_mlp.pth
 | -------------------------------------------- | --------------------------------------------------------- |
 | `Traffic_dataset_cleaned.csv`                | Cleaned dataset used for modeling                         |
 | `split_file_0.csv`, `split_file_1.csv`, etc. | Smaller CSV chunks for Google Data Studio / Looker Studio |
-| `best_traffic_mlp.pth`                       | Saved best PyTorch MLP model                              |
 
 ---
 
@@ -778,7 +774,6 @@ project-folder/
 ├── split_file_0.csv
 ├── split_file_1.csv
 ├── split_file_2.csv
-├── best_traffic_mlp.pth
 └── README.md
 ```
 
